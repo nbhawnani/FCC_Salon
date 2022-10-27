@@ -29,6 +29,7 @@ What time would you like your cut, Fabio?
 10:30
 
 I have put you down for a cut at 10:30, Fabio.
+I have put you down for a waxing at 11am, Fabio.
 
 
 // Next example:
